@@ -1,0 +1,1 @@
+export const REPORT_JSON_URL = 'https://myqu.ru/apps/qr/report/report.json'
